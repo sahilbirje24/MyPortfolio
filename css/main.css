@@ -1966,7 +1966,7 @@ input::-moz-focus-inner {
 }
 
 .intro-text h3 {
-  font-family: "Roboto", sans-serif;
+/*  font-family: "Roboto", sans-serif;*/
   font-size: 2.4rem;
   font-weight: 500;
   line-height: 1.333;
